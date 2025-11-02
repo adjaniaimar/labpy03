@@ -24,6 +24,15 @@ Program :
 
 <img width="1383" height="306" alt="lat2" src="https://github.com/user-attachments/assets/2ed5226d-0efc-4a59-9989-23c0f353d865" />
 
+1. Inisialisasi modal awal yaitu Rp.100.000.000
+2. Tetapkan daftar persentase laba sesuai yang diinginkan
+3. Inisialisasi total keuntungan
+4. Gunakan fungsi enumerate() untuk melakukan loop sambil menghitung nomor bulan
+5. Lalu tetapkan variabel untuk menentukan keuntungan tiap bulan
+6. Tambahkan ke total keuntungan
+7. Print laba tiap bulan
+8. Print total keuntungan akhir
+   
 Run Program :
 
 <img width="1383" height="248" alt="run_lat2" src="https://github.com/user-attachments/assets/eb8946f6-431d-48fe-b2a1-4f9cb4ba1d91" />

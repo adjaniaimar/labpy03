@@ -8,6 +8,13 @@ Program :
 
 <img width="1384" height="346" alt="lat1" src="https://github.com/user-attachments/assets/ff7dda28-ff4d-4306-9703-9d08199d523b" />
 
+1. Import random agar saat run menghasilkan angka acak
+2. Variabel n untuk user menginput berapa banyak bilangan output yang diinginkan
+3. Selama jumlah bilangan acak kurang dari n, lakukan loop
+4. Jika sudah menghasilkan bilangan n, maka break untuk menghentikan loop
+5. Gunakan if angka < 0.5 , agar bilangan yang hasilkan kurang dari 0.5
+6. Lalu print
+
 Run Program :
 
 <img width="1384" height="290" alt="run_lat1" src="https://github.com/user-attachments/assets/1bf3d021-c5bf-414b-a2ec-4a06f6874e41" />

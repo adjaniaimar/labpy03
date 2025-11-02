@@ -42,6 +42,17 @@ Program :
 
 <img width="1384" height="708" alt="lat3" src="https://github.com/user-attachments/assets/62b21bdf-0ea7-43d6-8dcf-9ca1fc75851f" />
 
+1. Inisialisasi modal awal yaitu Rp.1.000.000
+2. Gunakan fungsi while True untuk loop
+3. Print tampilan utama pada program
+4. Gunakan input untuk user memilih menu 1/2
+5. Jika pengguna memilih menu 1, maka tampilkan menu tarik tunai
+6. Validasi jumlah penarikan
+7. Gunakan except value error untuk menangani inputan user yang tidak valid seperti mengetik selain angka
+8. Jika pengguna memiihi menu 2, maka break/tampilkan menu keluar
+9. Gunakan else untuk menangani inputan user yang tidak valid seperti memilih menu selain 1/2
+10. Tambahkan kondisi tambahan untuk memberitahu saldo habis
+    
 Run Program :
 
 <img width="1386" height="642" alt="run_lat3" src="https://github.com/user-attachments/assets/0f3c7355-1c8b-4028-81a7-a4619733c384" />
